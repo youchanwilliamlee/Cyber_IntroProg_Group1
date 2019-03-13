@@ -1,0 +1,10 @@
+Display / "PIN"
+Input PIN
+IF PIN = 1234
+    then 
+    Show Balance
+    END
+
+ELSE IF
+    Go back to Input PIN
+
